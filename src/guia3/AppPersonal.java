@@ -1,5 +1,6 @@
 package guia3;
 
+
 import clases.ConexionMySQL;
 import clases.Personal;
 
